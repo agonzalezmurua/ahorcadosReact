@@ -1,0 +1,16 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.wordCell {
+  padding-right: 2px;
+}
+
+.invisible {
+  display: none;
+}
+
+.subrayado {
+  text-decoration: underline;
+}
